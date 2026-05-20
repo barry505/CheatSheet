@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: gainsboro;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  margin: 0 auto;
+  border: 2px solid #9932cc;
+  width: 650px;
+}
+
+thead {
+  background-color: #dda0dd;
+}
+
+td {
+  border-top: 1px solid #9932cc;
+}
+
+h2 {
+  color: rebeccapurple;
+}
+
+.code {
+  background-color: beige;
+}
